@@ -1,0 +1,6 @@
+{
+  "name": "Aliança Tech | Soluções em TI & Alocação de Especialistas",
+  "description": "Plataforma corporativa da Aliança Tech para empresas contratarem serviços e talentos de TI, e portal de carreiras para profissionais de tecnologia.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
